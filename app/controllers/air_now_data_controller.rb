@@ -1,0 +1,2 @@
+class AirNowDataController < ApplicationController
+end

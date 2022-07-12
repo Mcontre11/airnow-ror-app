@@ -1,0 +1,2 @@
+class AirNowDatum < ApplicationRecord
+end
